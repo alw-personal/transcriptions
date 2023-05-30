@@ -4,7 +4,6 @@
 
 layout: collection
 collection: transcriptions
-title:
 ---
 
 # Hello!
