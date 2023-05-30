@@ -4,10 +4,9 @@
 
 layout: collection
 collection: transcriptions
-title:
+title: Hello!
 ---
 
-# Hello!
 Welcome to my page of completed and in-progress transcriptions.
 The transcriptions are hosted on this website (below) and also available on my [SoundSlice channel](https://www.soundslice.com/users/alex.w/).
 
